@@ -1,4 +1,4 @@
-# Titanic Survivor Project
+# Titanic Survival Prediction
 
 ## Introduction
 This repository contains an end-to-end analysis and solution to the [Kaggle Titanic survival prediction competition](https://www.kaggle.com/c/titanic/overview).  
