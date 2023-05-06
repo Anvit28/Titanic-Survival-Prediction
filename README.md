@@ -1,7 +1,7 @@
 # Titanic Survivor Project
 
 ## Introduction
-This repository contains an end-to-end analysis and solution to the [Kaggle Titanic survival prediction competition]{https://www.kaggle.com/c/titanic/overview}.  
+This repository contains an end-to-end analysis and solution to the [Kaggle Titanic survival prediction competition](https://www.kaggle.com/c/titanic/overview).  
 
 Given what we know about a passenger aboard the Titanic, can we predict whether or not this passenger has survived? In other words, we are training a machine learning model to learn the relationship between passenger features and their survival outcome and susbsequently make survival predictions on passenger data that our model has not been trained on.
 
